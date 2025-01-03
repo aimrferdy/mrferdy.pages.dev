@@ -109,7 +109,7 @@
                         setTimeout(updateLoading, 100);
                     } else {
                         // Setelah loading selesai, redirect ke halaman tujuan
-                        window.location.href = "https://heylink.me/monperalink";
+                        window.location.href = "https://mrferdy.pages.dev/link";
                     }
                 }
 
